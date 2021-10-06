@@ -5,3 +5,7 @@
 .navbar-nav.ms-auto li a {
     color: #48443e;
 }
+
+.navbar-toggler {
+    width: 10%;
+}
