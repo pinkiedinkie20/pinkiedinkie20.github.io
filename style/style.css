@@ -1,3 +1,7 @@
 .navbar {
     background-color: #ffb6c1;
 }
+
+.navbar-nav.ms-auto li a {
+    color: #48443e;
+}
