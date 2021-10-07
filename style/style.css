@@ -1,3 +1,8 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+}
+
 .navbar {
     background-color: #ffb6c1;
 }
@@ -22,6 +27,7 @@
 
 h2 {
     font-family: Font;
+    font-size: 50px;
     color: #ffb6c1;
 }
 
