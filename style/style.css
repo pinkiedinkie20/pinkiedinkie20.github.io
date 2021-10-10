@@ -28,7 +28,18 @@ body {
 
 h2 {
     font-family: Font;
-    font-size: 50px;
+    font-size: 40px;
     color: #ffb6c1;
+
+}
+
+.product {
+    font-weight: bold;
+}
+
+.ingredients {
+    list-style-type: none;
+    font-size: 12px;
+    color: #696969;
 }
 
