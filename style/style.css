@@ -7,6 +7,11 @@ body {
     background-color: #ffb6c1;
 }
 
+.navbar-nav > li{
+  margin-left:30px;
+  margin-right:30px;
+}
+
 .navbar-nav.ms-auto li a {
     color: #48443e;
 }
@@ -30,7 +35,6 @@ h2 {
     font-family: Font;
     font-size: 40px;
     color: #ffb6c1;
-
 }
 
 .product {
@@ -41,5 +45,11 @@ h2 {
     list-style-type: none;
     font-size: 12px;
     color: #696969;
+    padding: 0px 0px;
+
+}
+
+ul > li {
+    padding: 3px 0px;
 }
 
