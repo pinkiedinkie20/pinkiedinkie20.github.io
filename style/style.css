@@ -67,8 +67,7 @@ ul > li {
     width: 100%;
     background-color: #ffb6c1;
     text-align: center;
-    margin-bottom: 10px;
-    margin-top: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
 }
-
-
